@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Fun fact: I am in my 3rd year at MNNIT Allahabad, where I am currently studying Computer Science.<br>👨🏾‍💻 I build projects using JavaScript and am continuously learning more technologies to become a better version of myself.<br>😊 I am happy to contribute to open source projects and participate in hackathons.</p>
+<p align="left">Fun fact: I am in my 3rd year at MNNIT Allahabad, where I am currently studying Computer Science.<br>👨🏾‍💻 I build projects using JavaScript and am continuously learning more technologies to become a better version of myself.<br>😊 </p>
 
 ###
 
@@ -20,8 +20,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
